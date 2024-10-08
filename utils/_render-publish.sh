@@ -22,7 +22,7 @@ fi
 
   echo fixing links
 
-  Rscript utils/fix-links.r
+  utils/fix-links.r
   
   echo publishing
 

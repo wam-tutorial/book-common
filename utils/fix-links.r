@@ -1,4 +1,5 @@
-## !/usr/bin/Rscript
+#!/usr/bin/Rscript
+
 # lang <- Sys.getenv("QUARTO_PROFILE")
 
 # args <- commandArgs(trailingOnly = TRUE)
