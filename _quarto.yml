@@ -11,6 +11,7 @@ execute:
 
 book:
   google-analytics: G-LLHQEESR2L
+  cookie-consent: true
   date: today
   date-format: iso 
   reader-mode: true
